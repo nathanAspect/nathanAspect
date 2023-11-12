@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanAspect
-- 👀 I’m interested in webDevelopement
+- 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning nodeJS, Express and Mysql
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me nathanantenehpersonal@gmail.com

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nodeJS, Express and Mysql
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me nathanantenehpersonal@gmail.com
-- ⚓ Project Expirence C++ | JAVA | JS | HTML | CSS
+- ⚓ University Project Expirence C++ | JAVA | JS | HTML | CSS
 
 <!---
 nathanAspect/nathanAspect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanAspect
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning nodeJS, Express and Mysql
+- 🌱 I’m currently learning React, nodeJS, Express and Mysql
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me, you can reach me via email: nathanantenehpersonal@gmail.com
 - ⚓ University Project Expirence C++ | JAVA | JS | HTML | CSS

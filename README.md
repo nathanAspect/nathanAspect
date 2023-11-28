@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathanAspect
+- 👋 Hi, I’m Nathan
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning React, python, Django, Flusk and Mysql
 - 💞️ I’m happy to collaborate

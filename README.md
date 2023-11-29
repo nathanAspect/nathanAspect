@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nathan
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning React, python, Django, Flusk and Mysql
-- 💞️ I’m happy to collaborate
+- 💞️ I’m happy to collaborate!
 - 📫 How to reach me, you can reach me via email: nathanantenehpersonal@gmail.com
 - ⚓ University Project Expirence C++ | JAVA | JS | HTML | CSS
 
